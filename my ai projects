@@ -1,0 +1,15 @@
+Design a modern, responsive personal portfolio website for "Hiba Rehman, a UI/UX designer"].
+
+Visual style: [STYLE — e.g. "clean and minimalist", "bold and colorful", "dark mode with neon accents"].
+Color scheme: [COLORS — e.g. "white background, navy blue, and a coral accent"].
+Font feel: [FONT VIBE — e.g. "modern and rounded", "professional and serif"].
+
+Include these sections from top to bottom:
+1. A top navigation bar with the name/logo on the left and links (Home, About, Projects, Contact) on the right.
+2. A hero section with a large headline "[YOUR TAGLINE — e.g. 'Hi, I'm Hiba — I design simple, beautiful apps']", a short subheadline, a profile photo placeholder, and a call-to-action button that says "[BUTTON TEXT — e.g. 'View My Work']".
+3. An About Me section with a short paragraph and a list of skills shown as small cards or tags: [SKILLS — e.g. "Pomelli, Figma, UI Design, Prototyping"].
+4. A Projects section showing [NUMBER — e.g. "3"] project cards in a grid, each with an image placeholder, project title, and one-line description.
+5. A Contact section with a simple form (name, email, message) and social media links.
+6. A footer with copyright text.
+
+Make it look polished, well-spaced, and friendly for [AUDIENCE — e.g. "showing to future employers"].
